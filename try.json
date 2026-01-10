@@ -1,15 +1,20 @@
 [
   {
-    "name": "https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_sponge.png",
-     "sex": "boy",
- "link":"https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_spongebob.zip",
-    "age": "busines" 
+     "name": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png",
+     "sex": "spongebob",
+     "link":"https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_spongebob.zip",
+     "age": "skin" 
   },
-
     {
-    "name": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png",
-     "sex": "girl",
- "link":"https://github.com/tin0521/dec2025/raw/refs/heads/main/gloo_spongebob.zip",
-    "age": "ako12" 
+     "name": "https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_sponge.png",
+     "sex": "spongebob",
+     "link":"https://github.com/tin0521/dec2025/raw/refs/heads/main/cyclops_spongebob.zip",
+     "age": "skin" 
+  },
+    {
+     "name": "https://github.com/Mexi23/NovemberUPDT/raw/refs/heads/main/sun.png",
+     "sex": "sun",
+     "link":"https://github.com/Mexi23/Oct2025/raw/refs/heads/main/sun_annualstar.zip",
+     "age": "skin" 
     }
 ]
