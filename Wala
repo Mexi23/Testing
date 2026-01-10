@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Image 1",
+    "image_url": "https://raw.githubusercontent.com/username/repo/main/image1.png",
+    "link": "https://example.com/page1"
+  },
+  {
+    "title": "Image 2",
+    "image_url": "https://raw.githubusercontent.com/username/repo/main/image2.png",
+    "link": "https://example.com/page2"
+  }
+]
